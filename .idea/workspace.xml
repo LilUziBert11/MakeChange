@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d99b61d4-8031-4ded-b1db-404f9530ce7b" name="Changes" comment="Changed it to src file">
+    <list default="true" id="d99b61d4-8031-4ded-b1db-404f9530ce7b" name="Changes" comment="Added a simple input validation. &#10;Need to check for case where user has 3 decimal places">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MakeChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MakeChange.java" afterDir="false" />
     </list>
@@ -33,7 +33,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/alber/IdeaProjects/FarenheitConvertor",
+    "last_opened_file_path": "C:/Users/alber/IdeaProjects/MakeChange",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -62,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664168840501</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added a simple input validation. &#10;Need to check for case where user has 3 decimal places">
+      <created>1664243092906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664243092906</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +86,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inital Commit" />
     <MESSAGE value="Changed it to src file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed it to src file" />
+    <MESSAGE value="Added a simple input validation. &#10;Need to check for case where user has 3 decimal places" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a simple input validation. &#10;Need to check for case where user has 3 decimal places" />
   </component>
 </project>
